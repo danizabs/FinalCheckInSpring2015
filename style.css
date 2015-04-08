@@ -1,11 +1,76 @@
 
-h1 {
+header {
   font-family: 'Roboto Slab', serif;
   margin: auto auto 0px auto;
   font-size: 45px;
+  font-weight: bold;
 }
 
 h2 {
   font-family: 'Roboto Slab', serif;
-  margin: 0px auto 30px auto;
+  margin: 0px auto 25px auto;
+  letter-spacing: 1.7px;
+}
+
+strong {
+  color: #FF0040;
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+}
+
+nav {
+  font-size: 17px;
+  text-align: center;
+  margin: 0 auto;
+  width: auto;
+  padding: 5px 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #F5BCA9;
+}
+
+a {
+  color: #B40431;
+}
+
+ul {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#ingredientsLentil img {
+  float: right;
+  height: 293px;
+  width: 480px;
+}
+
+#ingredientsLentilMain {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#ingredientsPolenta img {
+  float: right;
+  height: 293px;
+  width: 480px;
+}
+
+#ingredientsPolentaMain {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#ingredientsSodaBread img {
+  float: right;
+  height: 293px;
+  width: 480px;
+}
+
+#ingredientsSodaBreadMain {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
